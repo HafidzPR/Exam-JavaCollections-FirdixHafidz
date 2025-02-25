@@ -1,0 +1,60 @@
+Soal 1: ArrayList Basics
+Buatlah sebuah program yang mendemonstrasikan penggunaan ArrayList di Java. Program tersebut harus:
+	1.	Menambahkan lima nama ke dalam ArrayList.
+	2.	Menghapus satu nama dari daftar berdasarkan index.
+	3.	Menampilkan semua nama yang ada dalam ArrayList setelah perubahan.
+
+
+
+Soal 2: Set and Duplicate Values
+Buatlah program yang menggunakan HashSet untuk menyimpan nama-nama kota. Program ini harus:
+	1.	Menambahkan 5 nama kota ke dalam HashSet, di antaranya ada yang duplikat.
+	2.	Tampilkan semua nama kota yang ada di dalam HashSet. (Perhatikan bahwa tidak ada elemen duplikat yang muncul).
+
+
+Soal 3: Map Operations
+Buatlah sebuah program yang menggunakan HashMap untuk menyimpan informasi Student ID dan Nama Mahasiswa. Program ini harus:
+	1.	Menambahkan 5 entri ke dalam HashMap.
+	2.	Mencari nama mahasiswa berdasarkan Student ID.
+	3.	Menghapus entri berdasarkan Student ID.
+	4.	Menampilkan semua Student ID dan Nama Mahasiswa.
+
+
+
+
+
+Soal 4: LinkedList Manipulation
+Buatlah program yang menggunakan LinkedList untuk menyimpan daftar tugas yang perlu dilakukan. Program tersebut harus:
+	1.	Menambahkan lima tugas ke dalam LinkedList.
+	2.	Menampilkan tugas-tugas yang ada di daftar.
+	3.	Menghapus tugas pertama dari daftar dan menampilkan sisa tugas.
+
+
+Soal 5: Sorting Collections
+Buatlah program untuk mengurutkan ArrayList yang berisi objek Student. Objek Student memiliki dua atribut: nama dan nilai. Program ini harus:
+	1.	Mengurutkan ArrayList berdasarkan nilai mahasiswa secara menurun.
+	2.	Menampilkan hasil setelah diurutkan.
+
+
+
+Soal 6: Iterator Usage
+Buatlah program yang menggunakan Iterator untuk melakukan iterasi pada ArrayList dan menampilkan elemen-elemen yang ada dalam daftar. Program ini harus:
+	1.	Menggunakan Iterator untuk menampilkan elemen-elemen dalam ArrayList.
+	2.	Menghapus elemen dengan nilai tertentu menggunakan Iterator.
+
+
+
+Soal 7: Queue and PriorityQueue
+Buatlah program yang menggunakan Queue untuk antrian pelanggan di sebuah toko. Program ini harus:
+	1.	Menambahkan tiga pelanggan ke dalam Queue.
+	2.	Menampilkan pelanggan yang pertama kali masuk.
+	3.	Menggunakan PriorityQueue untuk memprioritaskan pelanggan berdasarkan waktu kedatangan mereka.
+
+
+
+Soal 8: List of Custom Objects
+Buatlah sebuah program yang menggunakan ArrayList untuk menyimpan objek-objek Book. Setiap objek Book memiliki dua atribut: title dan author. Program tersebut harus:
+	1.	Menambahkan 5 buku ke dalam ArrayList.
+	2.	Mengurutkan ArrayList berdasarkan author.
+	3.	Menampilkan semua buku setelah diurutkan.
+
